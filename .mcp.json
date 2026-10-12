@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "wordpress-1367346-6722224-cloudwaysapps-com-elementor": {
+      "type": "http",
+      "url": "https://wordpress-1367346-6722224.cloudwaysapps.com/wp-json/elementor/mcp/",
+      "headers": {
+        "Authorization": "${WP_ELEMENTOR_AUTH}"
+      }
+    }
+  }
+}
